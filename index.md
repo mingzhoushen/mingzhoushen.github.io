@@ -2,6 +2,9 @@
 layout: page
 title: ""
 ---
+
+![Profile Picture](/profile.jpg "Profile Picture")
+
 Welcome to my website! 
 
 I am a Ph.D. candidate in Applied Economics at the Pennsylvania State University.  
