@@ -2,4 +2,8 @@
 layout: page
 title: ""
 ---
-I am a Ph.D. candidate at the Pennsylvania State University, specializing in environmental economics and applied econometrics.
+Welcome to my website! 
+
+I am a Ph.D. candidate in Applied Economics at the Pennsylvania State University.  My research focuses on environmental economics, and applied econometrics.
+
+Email: mjs7919@psu.edu
