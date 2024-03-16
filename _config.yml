@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:mjs7919@psu.edu"}
   - {title: Github, icon: github, url: "https://github.com/mingzhoushen"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/mingzhoushen"}
-  - {title: Google Scholar, icon: fa-book, url: "https://scholar.google.com/citations?user=2_HpNZEAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: fa-graduation-cap, url: "https://scholar.google.com/citations?user=2_HpNZEAAAAJ&hl=en"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
