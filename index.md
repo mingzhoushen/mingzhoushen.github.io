@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![Profile Picture](/profile.jpg "Profile Picture")
+<img src="profile.jpg" alt="Profile Picture" style="float: right; width: 200px;"/>
 
 Welcome to my website! 
 
