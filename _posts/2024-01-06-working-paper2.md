@@ -1,5 +1,5 @@
 ---
-title:  "Drought Response in the Western United States: Household Location Choices and Housing Market Feedback"
+title:  "Drought Response in the Western United States: Household Location Choices and Housing Market Feedback. (Job Market Paper)"
 mathjax: true
 layout: post
 categories: 
