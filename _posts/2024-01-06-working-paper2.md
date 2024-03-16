@@ -17,11 +17,10 @@ droughts are not just becoming more frequent; they are also increasing in both d
 billion-dollar drought events nearly every year (McNabb et al., Springer Nature, 2023). Despite this, the adaptive  
 strategies of households, particularly their migration responses to severe droughts, are not well understood.   
 Investigating these adaptive behaviors is crucial, as they not only shape local economic dynamics, such as labor   
-and housing markets, but also inform necessary policy measures needed to support the most vulnerable individuals, 
-households, and communities.
+and housing markets, but also inform necessary policy measures needed to support the most vulnerable individuals,  households, and communities.
 
 In our study, we conduct a spatial equilibrium analysis of the effects of severe droughts on household location choices 
-cross 83 counties in the Western United States, spanning the years from 2000 to 2019. Innovatively, our approach   
+cross 83 counties in the Western United States, spanning the years from 2000 to 2019. Innovatively, our approach  
 incorporates a housing supply equation into the spatial equilibrium model. Contrary to prior sorting models that   
 primarily characterize housing demand and treat the supply as fixed, our integration enables the model to more   
 accurately capture the dynamics of the housing market in response to population migration. As a result, this   
