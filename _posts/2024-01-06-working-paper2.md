@@ -14,3 +14,8 @@ for the second-highest number of deaths among natural disasters, claiming over 3
 
 In our study, we conduct a spatial equilibrium analysis of the effects of severe droughts on household location choices 
 cross 83 counties in the Western United States, spanning the years from 2000 to 2019. Innovatively, our approach incorporates a housing supply equation into the spatial equilibrium model. Contrary to prior sorting models that  primarily characterize housing demand and treat the supply as fixed, our integration enables the model to more  accurately capture the dynamics of the housing market in response to population migration. As a result, this  enhanced model offers deeper insights into the impact of severe droughts on both labor and housing markets, framed within a general equilibrium context.
+
+**Presentations:**  
+Annual Summer Conference of the Association of Environmental and Resource Economists (AERE), Washington D.C., May 29-May 31, 2024 (scheduled).  
+Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024 (scheduled).  
+Northeastern Agricultural and Resource Economics Association (NAREA) Annual Conference, Rehoboth Beach, DE, July 9-July 12, 2024 (scheduled).  
