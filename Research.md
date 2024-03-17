@@ -9,7 +9,7 @@ title: ""
   {% include archive.html title="Working Papers" %}
 {% endif %}
 
-**Working Papers**<h2 style="font-size:24px;">Working Papers</h2>
+<h2 style="font-size:24px;">Working Papers</h2>
 
 **Drought Response in the Western United States: Household Location Choices and Housing Market Feedback** (Job Market Paper)
 
