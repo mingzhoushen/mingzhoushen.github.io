@@ -19,10 +19,10 @@ for the second-highest number of deaths among natural disasters, claiming over 3
 
 In our study, we conduct a spatial equilibrium analysis of the effects of severe droughts on household location choices cross 83 counties in the Western United States, spanning the years from 2000 to 2019. Innovatively, our approach incorporates a housing supply equation into the spatial equilibrium model. Contrary to prior sorting models that primarily characterize housing demand and treat the supply as fixed, our integration enables the model to more accurately capture the dynamics of the housing market in response to population migration. As a result, this enhanced model offers deeper insights into the impact of severe droughts on both labor and housing markets, framed within a general equilibrium context.
 
-**Presentations**
-Annual Summer Conference of the Association of Environmental and Resource Economists (AERE), Washington D.C., May 29-May 31, 2024 (scheduled).
-Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024 (scheduled).
-Northeastern Agricultural and Resource Economics Association (NAREA) Annual Conference, Rehoboth Beach, DE, July 9-July 12, 2024  (scheduled).
+**Presentations:**  
+Annual Summer Conference of the Association of Environmental and Resource Economists (AERE), Washington D.C., May 29-May 31, 2024 (scheduled).  
+Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024 (scheduled).  
+Northeastern Agricultural and Resource Economics Association (NAREA) Annual Conference, Rehoboth Beach, DE, July 9-July 12, 2024  (scheduled).  
 
 **Impacts of Water-Related Building Moratoria on California's Housing Crisis**
 
@@ -30,9 +30,9 @@ Abstract: California is facing a housing affordability crisis which has been par
 
 [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4638948)
 
-**Presentations**
-Western Economics Association International (WEAI) Annual Conference, San Diego, CA, July 2-July 6, 2023.
-Northeast Workshop on Energy Policy and Environmental Economics, Ithaca, NY, June 6-June 7, 2023.
-Annual Summer Conference of the Association of Environmental and Resource Economists (AERE), Portland, ME, May 31-June 2, 2023.
-Annual Environmental Politics and Governance (EPG) Conference, State College, PA, June 28-July 1, 2022.
+**Presentations:**  
+Western Economics Association International (WEAI) Annual Conference, San Diego, CA, July 2-July 6, 2023.  
+Northeast Workshop on Energy Policy and Environmental Economics, Ithaca, NY, June 6-June 7, 2023.  
+Annual Summer Conference of the Association of Environmental and Resource Economists (AERE), Portland, ME, May 31-June 2, 2023.  
+Annual Environmental Politics and Governance (EPG) Conference, State College, PA, June 28-July 1, 2022.  
 
