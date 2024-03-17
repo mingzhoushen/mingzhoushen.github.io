@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: ""
 ---
 
 {% if site.show_excerpts %}
@@ -9,12 +9,11 @@ title: "Research"
   {% include archive.html title="Working Papers" %}
 {% endif %}
 
-Drought Response in the Western United States: Household Location Choices and Housing Market Feedback. (Job Market Paper)
-January 06, 2024
+**Working Papers**<h2 style="font-size:24px;">Working Papers</h2>
 
-Abstract
+**Drought Response in the Western United States: Household Location Choices and Housing Market Feedback** (Job Market Paper)
 
-Droughts are among the most devastating natural disasters, inflicting costs that average over $9.5 billion annually
+Abstract: Droughts are among the most devastating natural disasters, inflicting costs that average over $9.5 billion annually
 in the U.S. alone. Beyond their significant economic impact, droughts have a dire human cost. They are responsible
 for the second-highest number of deaths among natural disasters, claiming over 3,000 lives since 1980 (NCEI, 2023). This impact is particularly pronounced in the Western U.S., where the period from 2000 to 2021 marked the driest 22 years span in the last 1,200 years (Williams et al., Nature Climate Change, 2022). Intensified by climate change, droughts are not just becoming more frequent; they are also increasing in both duration and intensity, leading to billion-dollar drought events nearly every year (McNabb et al., Springer Nature, 2023). Despite this, the adaptive strategies of households, particularly their migration responses to severe droughts, are not well understood. Investigating these adaptive behaviors is crucial, as they not only shape local economic dynamics, such as labor and housing markets, but also inform necessary policy measures needed to support the most vulnerable individuals, households, and communities.
 
