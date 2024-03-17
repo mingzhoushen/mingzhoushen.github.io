@@ -14,8 +14,8 @@ California is facing a housing affordability crisis which has been partially bla
 
 **Presentations:**   
 
-Pennsylvania State University Water Conference, State College, PA, March 14-March 15, 2024.  
+Pennsylvania State University Water Conference, University Park, PA, March 14-March 15, 2024.  
 Western Economics Association International (WEAI) Annual Conference, San Diego, CA, July 2-July 6, 2023.  
 Northeast Workshop on Energy Policy and Environmental Economics, Ithaca, NY, June 6-June 7, 2023.  
 Annual Conference of the Association of Environmental and Resource Economists (AERE), Portland, ME, May 31-June 2, 2023.  
-Annual Environmental Politics and Governance (EPG) Conference, State College, PA, June 28-July 1, 2022.  
+Annual Environmental Politics and Governance (EPG) Conference, University Park, PA, June 28-July 1, 2022.  
