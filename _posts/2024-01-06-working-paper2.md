@@ -17,8 +17,8 @@ cross 83 counties in the Western United States, spanning the years from 2000 to 
 
 **Presentations:**   
 
-Northeastern Agricultural and Resource Economics Association (NAREA) Annual Conference, Rehoboth Beach, DE, July 9-July 12, 2024 (scheduled).
-Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024 (scheduled).
+Northeastern Agricultural and Resource Economics Association (NAREA) Annual Conference, Rehoboth Beach, DE, July 9-July 12, 2024 (scheduled).  
+Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024 (scheduled).  
 Annual Conference of the Association of Environmental and Resource Economists (AERE), Washington D.C., May 29-May 31, 2024 (scheduled).  
   
   
