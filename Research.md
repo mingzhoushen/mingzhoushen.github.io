@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Working Papers"
 ---
 
 {% if site.show_excerpts %}
