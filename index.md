@@ -3,22 +3,7 @@ layout: page
 title: ""
 ---
 
-<style>
-  .content-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  .profile-img {
-    float: right;
-    margin-left: 20px;
-    width: 250px;
-    height: auto;
-  }
-</style>
-
-<div class="content-container">
-  <img src="profile.jpg" alt="Profile Picture" class="profile-img"/>
+<img src="profile.jpg" alt="Profile Picture" style="float: right; margin-left: 20px; width: 250px; height: auto;"/>
 
 Welcome to my website!
 
