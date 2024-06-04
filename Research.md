@@ -11,7 +11,7 @@ title: ""
 
 <h2 style="font-size:24px;">Publication</h2>   
 
-*(I published in the field of engineering before changing my major to economics.)*  
+*(I published in the field of engineering before changing my major to economics)*  
 
 [3] [Stretchable gas sensors for detecting biomarkers from humans and exposed environments](https://www.sciencedirect.com/science/article/abs/pii/S0165993620303149)
 
