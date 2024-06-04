@@ -10,4 +10,4 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*   
 
 **Dynamics**   
-Instructor: [Christopher Kube](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=cmk6284). *Fall 2020 and Spring 2020*
+Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=cmk6284) and [Gary Gray](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=GLG6). *Fall 2020 and Spring 2020*
