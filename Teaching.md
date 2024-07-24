@@ -4,7 +4,7 @@ title: "Teaching Assistant"
 ---
 
 **Introductory Environmental and Resource Economics**     
-Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2024*
+Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2024*  
 I held weekly office hours, exam preparation sessions, and designed and delivered a lecture on Fishery.
 
 **Statics and Strength of Materials**     
