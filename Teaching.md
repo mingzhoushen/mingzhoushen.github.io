@@ -5,7 +5,7 @@ title: "Teaching Assistant"
 
 **Introductory Environmental and Resource Economics**     
 Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2024*  
-I held weekly office hours, exam preparation sessions, and designed and delivered a lecture on Fishery.
+I held weekly office hours, exam preparation sessions, and designed and delivered a lecture on the topic of Fisheries.
 
 **Statics and Strength of Materials**     
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*   
