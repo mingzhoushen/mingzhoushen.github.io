@@ -34,5 +34,5 @@ Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-det
   - Exam preparation sessions.
   - Graded homework and exams.
 
-**Mathematics**
+**Mathematics**  
 In the summer of 2013, I taught middle school students, ages 13 to 15, at Chun'an Middle School in China.
