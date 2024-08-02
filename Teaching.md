@@ -29,7 +29,15 @@ Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-
 **Dynamics (EMCH 212)**   
 Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=cmk6284) and [Gary Gray](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=GLG6). *Fall 2020 and Spring 2020*  
 
-- **Responsibilities**:  
+- **Responsibilities**:
   - Weekly office hours.
   - Exam preparation sessions.
   - Graded homework and exams.
+
+---
+layout: page
+title: "Instructor"
+---
+
+**Mathematics**
+In the summer of 2013, I taught middle school students, ages 13 to 15, at Chun'an Middle School in China.
