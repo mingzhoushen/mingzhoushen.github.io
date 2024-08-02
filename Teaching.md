@@ -8,6 +8,26 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
     - Topics covered: Supply and demand, externalities, public goods, cost-benefit analysis, revealed and stated                   preferences, air quality, water, land, nonrenewable resources, fisheries, and forests.  
     - Textbook: Jonathan M. Harris and Brian Roach. (2021). Environmental and Natural Resource Economics: A Contemporary           Approach, 5th edition.  
     - Weekly office hours, exam preparation sessions, and designed and delivered a lecture on the topic of Fisheries.
+    - **Topics covered**:
+  - Supply and demand
+  - Externalities
+  - Public goods
+  - Cost-benefit analysis
+  - Revealed and stated preferences
+  - Air quality
+  - Water
+  - Land
+  - Nonrenewable resources
+  - Fisheries
+  - Forests
+
+- **Textbook**:
+  - Jonathan M. Harris and Brian Roach. (2021). *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
+
+- **Additional Responsibilities**:
+  - Weekly office hours
+  - Exam preparation sessions
+  - Designed and delivered a lecture on the topic of Fisheries
 
 **Statics and Strength of Materials (EMCH 210)**     
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*     
