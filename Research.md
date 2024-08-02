@@ -9,7 +9,7 @@ title: ""
   {% include archive.html title="Working Papers" %}
 {% endif %}
 
-<h2 style="font-size:24px;">Publication</h2>   
+<h2 style="font-size:24px;">Publications</h2>   
 
 *(I published papers in the field of engineering before changing my major to economics)*  
 
