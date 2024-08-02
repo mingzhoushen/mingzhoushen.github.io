@@ -13,14 +13,25 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
   - Jonathan M. Harris and Brian Roach. (2021). *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
 
 - **Responsibilities**:
-  - Weekly office hours
-  - Exam preparation sessions
-  - Designed and delivered a lecture on the topic of Fisheries
+  - Weekly office hours.
+  - Exam preparation sessions.
+  - Designed and delivered a lecture on the topic of fisheries.
+  - Graded homework and exams.
 
 **Statics and Strength of Materials (EMCH 210)**     
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*     
 Weekly office hours and exam preparation sessions.
 
+- **Responsibilities**:
+  - Weekly office hours.
+  - Exam preparation sessions.
+  - Graded homework and exams.
+
 **Dynamics (EMCH 212)**   
 Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=cmk6284) and [Gary Gray](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=GLG6). *Fall 2020 and Spring 2020*  
 Weekly office hours and exam preparation sessions.
+
+- **Responsibilities**:
+  - Weekly office hours.
+  - Exam preparation sessions.
+  - Graded homework and exams.
