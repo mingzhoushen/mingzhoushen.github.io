@@ -13,9 +13,9 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
   - Jonathan M. Harris and Brian Roach. (2021). *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
 
 - **Responsibilities**:
+  - Designed and delivered a lecture on the topic of fisheries.
   - Weekly office hours.
   - Exam preparation sessions.
-  - Designed and delivered a lecture on the topic of fisheries.
   - Graded homework and exams.
 
 **Statics and Strength of Materials (EMCH 210)**     
