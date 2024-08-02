@@ -1,7 +1,3 @@
----
-layout: page
-title: "Teaching Assistant"
----
 
 **Introductory Environmental and Resource Economics (CED 201)**     
 Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2024*  
