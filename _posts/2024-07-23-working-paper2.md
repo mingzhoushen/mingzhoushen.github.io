@@ -12,7 +12,7 @@ As climate change accelerates, the Western U.S. is projected to experience an in
 
 **Presentations:**   
 
-Agricultural and Applied Economics Association (AAEA) Annual Meeting, New Orleans, LA, July 28-July 30, 2024 (scheduled).  
+Agricultural and Applied Economics Association (AAEA) Annual Meeting, New Orleans, LA, July 28-July 30, 2024.  
 Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024.  
 Annual Conference of the Association of Environmental and Resource Economists (AERE), Washington D.C., May 29-May 31, 2024.  
   
