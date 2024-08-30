@@ -10,7 +10,7 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
 
 - **Responsibilities**:
   - Designed and delivered a lecture covering the topic of fisheries - XXX.
-  - Weekly office hours.
+  - Weekly office hours - XXX (55 students).
   - Exam preparation sessions.
   - Grading homework and exams.
 
