@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="Profile.JPG" alt="Profile Picture" style="float: left; vertical-align: middle; margin-right: 20px; width: 250px; height: auto;"/>
+<img src="Profile.JPG" alt="Profile Picture" style="float: left; vertical-align: middle; margin-right: 40px; width: 250px; height: auto;"/>
 
 Welcome to my website!
 
@@ -13,4 +13,6 @@ Before moving to the United States for my Ph.D. in 2020, I worked as an intern w
 
 I am currently on the job market for the 2024-2025 academic year and available for interviews.  
 
-Email: mjs7919@psu.edu
+<div style="text-align: right;">
+    Email: mjs7919@psu.edu
+</div>
