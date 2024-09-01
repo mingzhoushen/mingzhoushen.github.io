@@ -9,18 +9,19 @@ title: ""
   {% include archive.html title="Working Papers" %}
 {% endif %}
 
-<h2 style="font-size:24px;">Publications</h2>   
+<h2 style="font-size:30px;">Publications</h2>   
 
-*(published papers in the field of engineering before changing my major to economics)*  
+[1] [Carbon neutral tea production in China – Three pilot case studies](https://openknowledge.fao.org/items/093109de-3e5f-4a81-99fe-bb5fdbd17536)  
+(with FAO and CAAS). 2021
 
-[1] [Stretchable gas sensors for detecting biomarkers from humans and exposed environments](https://www.sciencedirect.com/science/article/abs/pii/S0165993620303149)
+[2] [Stretchable gas sensors for detecting biomarkers from humans and exposed environments](https://www.sciencedirect.com/science/article/abs/pii/S0165993620303149)
 
 (with Ning Yi, Daniel Erdely, and Huanyu Cheng). *TrAC Trends in Analytical Chemistry*. Dec 2020.   
 
-[2] [Generalized optimization method for energy conversion and storage efficiency of nanoscale flexible piezoelectric energy harvesters](https://www.sciencedirect.com/science/article/abs/pii/S019689041831402X)
+[3] [Generalized optimization method for energy conversion and storage efficiency of nanoscale flexible piezoelectric energy harvesters](https://www.sciencedirect.com/science/article/abs/pii/S019689041831402X)
 
 (with Chaofeng Lü, Yangyang Zhang, He Zhang, Zhicheng Zhang, and Yisheng Chen). *Energy Conversion and Management*. Feb 2019.
 
-[3] [Identification of static loading conditions using piezoelectric sensor arrays](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/85/1/011008/473502/Identification-of-Static-Loading-Conditions-Using)
+[4] [Identification of static loading conditions using piezoelectric sensor arrays](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/85/1/011008/473502/Identification-of-Static-Loading-Conditions-Using)
 
 (with He Zhang, Yangyang Zhang, Yisheng Chen, and Chaofeng Lü). *Journal of Applied Mechanics*. Jan 2018.
