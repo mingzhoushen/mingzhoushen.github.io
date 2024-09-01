@@ -9,7 +9,7 @@ title: ""
   {% include archive.html title="Working Papers" %}
 {% endif %}
 
-<h2 style="font-size:30px;">Publications</h2>   
+<h2 style="font-size:28px;">Publications</h2>   
 
 [1] [Carbon neutral tea production in China – Three pilot case studies](https://openknowledge.fao.org/items/093109de-3e5f-4a81-99fe-bb5fdbd17536)  
 (with FAO and CAAS). 2021
