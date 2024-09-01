@@ -1,5 +1,5 @@
 ---
-title:  "Impacts of Water-Related Building Moratoria on California's Housing Crisis (Accepted at Land Economics)"
+title:  "Impacts of water-related building moratoria on California's housing crisis (Accepted at Land Economics)"
 mathjax: true
 layout: post
 categories: 
