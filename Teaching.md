@@ -29,4 +29,4 @@ Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-det
   - Exam preparation sessions.
 
 **Mathematics**  
-In the summer of 2013, I taught mathematics to middle school students, ages 13 to 15, at Chun'an Middle School in China. Lacking access to modern teaching technology, I created case studies using public transportation schedules to help students calculate distances and travel times for their daily commutes. By plotting this data on graphs, students were able to visualize linear equations in a practical and relatable way, making abstract concepts more engaging and tangible. This experience ignited my passion for teaching.
+In the summer of 2013, I taught mathematics to middle school students at Chun’an Middle School in China. Using public transportation schedules as case studies, I helped students calculate distances and travel times, making linear equations more tangible through practical, relatable examples. This experience sparked my passion for teaching.
