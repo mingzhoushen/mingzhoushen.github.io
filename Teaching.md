@@ -31,4 +31,4 @@ Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-det
   - Grading homework and exams.
 
 **Mathematics**  
-In the summer of 2013, I taught middle school students, ages 13 to 15, at Chun'an Middle School in China. --XXX
+In the summer of 2013, I taught middle school students, ages 13 to 15, at Chun'an Middle School in China. Lacking access to modern teaching technology, I created case studies using public transportation schedules to help students calculate distances and travel times for their daily commutes. By plotting this data on graphs, students were able to visualize linear equations in a practical and relatable way, making abstract concepts more engaging and tangible. This experience ignited my passion for teaching.
