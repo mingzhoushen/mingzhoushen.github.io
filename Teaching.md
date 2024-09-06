@@ -9,10 +9,10 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
   - Jonathan M. Harris and Brian Roach. (2021). *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
 
 - **Responsibilities**:
-  - Designed and delivered a lecture covering the topic of fisheries - XXX.
-  - Weekly office hours - XXX (55 students).
-  - Exam preparation sessions.
-  - Grading homework and exams.
+  - Designed and delivered a lecture on fisheries for 55 students, integrating real-world examples to enhance understanding.
+  - Held weekly office hours, offering personalized support to address individual student needs.
+  - Led exam preparation sessions, focusing on helping students master key concepts.
+  - Graded homework and exams with an emphasis on providing constructive feedback.
 
 **Statics and Strength of Materials (EMCH 210)**     
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*     
@@ -20,7 +20,6 @@ Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-
 - **Responsibilities**:  
   - Weekly office hours.
   - Exam preparation sessions.
-  - Grading homework and exams.
 
 **Dynamics (EMCH 212)**   
 Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=cmk6284) and [Gary Gray](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=GLG6). *Fall 2020 and Spring 2020*  
@@ -28,7 +27,6 @@ Instructors: [Christopher Kube](https://www.esm.psu.edu/department/directory-det
 - **Responsibilities**:
   - Weekly office hours.
   - Exam preparation sessions.
-  - Grading homework and exams.
 
 **Mathematics**  
-In the summer of 2013, I taught middle school students, ages 13 to 15, at Chun'an Middle School in China. Lacking access to modern teaching technology, I created case studies using public transportation schedules to help students calculate distances and travel times for their daily commutes. By plotting this data on graphs, students were able to visualize linear equations in a practical and relatable way, making abstract concepts more engaging and tangible. This experience ignited my passion for teaching.
+In the summer of 2013, I taught mathematics to middle school students, ages 13 to 15, at Chun'an Middle School in China. Lacking access to modern teaching technology, I created case studies using public transportation schedules to help students calculate distances and travel times for their daily commutes. By plotting this data on graphs, students were able to visualize linear equations in a practical and relatable way, making abstract concepts more engaging and tangible. This experience ignited my passion for teaching.
