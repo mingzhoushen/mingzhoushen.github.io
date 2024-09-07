@@ -11,7 +11,7 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
 - **Responsibilities**:
   - Designed and delivered a guest lecture on Fisheries for 55 students, incorporating real-world examples to enhance their understanding.
   - Hosted weekly office hours and exam review sessions, providing personalized support to meet individual student needs.
-  - Graded homework and exams, emphasizing detailed, constructive feedback to promote student improvement.
+  - Graded homework and exams, providing detailed, constructive feedback to promote student improvement.
 
 **Statics and Strength of Materials (EMCH 210)**     
 Instructor: [Samia Suliman](https://www.esm.psu.edu/department/directory-detail-g.aspx?q=SAS178). *Spring 2021*     
