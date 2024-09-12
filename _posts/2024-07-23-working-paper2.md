@@ -12,7 +12,7 @@ As climate change accelerates, the Western U.S. is expected to experience more f
 
 **Presentations:**   
 
-Penn State University Energy and Environmental Economics and Policy Initiative Seminar, State College, PA, September 18, 2024.  
+Penn State Energy and Environmental Economics and Policy Initiative Seminar, State College, PA, September 18, 2024.  
 Annual CU Environmental and Resource Economics Workshop, Vail, CO, September 13-September 14, 2024.  
 Agricultural and Applied Economics Association (AAEA) Annual Meeting, New Orleans, LA, July 28-July 30, 2024.  
 Western Economics Association International (WEAI) Annual Conference, Seattle, WA, June 29-July 3, 2024.  
