@@ -11,8 +11,7 @@ title: ""
 
 <h2 style="font-size:28px;">Publications</h2>   
 
-[1] [Impacts of water-related building moratoria on California's housing crisis]
-(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4638948)
+[1] [Impacts of water-related building moratoria on California's housing crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4638948)
 
 (with Karen Fisher-Vanden and Douglas H. Wrenn). *Land Economics*. Forthcoming in Jan 2025. 
 
