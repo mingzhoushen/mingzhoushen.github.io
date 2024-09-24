@@ -6,7 +6,7 @@ title: ""
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Working Papers" %}
+  {% include archive.html title="Job Market Paper" %}
 {% endif %}
 
 <h2 style="font-size:28px;">Publications</h2>   
