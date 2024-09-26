@@ -6,7 +6,7 @@ Instructor: [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121). *Spring 2
   - Supply and demand, externalities, public goods, cost-benefit analysis, revealed and stated preferences, air quality,         water, land, nonrenewable resources, fisheries, and forests.
 
 - **Textbook**:
-  - Jonathan M. Harris and Brian Roach. (2021). *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
+  - Jonathan M. Harris and Brian Roach. 2021. *Environmental and Natural Resource Economics: A Contemporary Approach*, 5th edition.
 
 - **Responsibilities**:
   - Designed and delivered a guest lecture on Fisheries for 55 students, incorporating real-world examples to enhance their understanding.
