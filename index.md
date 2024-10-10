@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="Profile.JPG" alt="Profile Picture" style="float: left; margin: 42px 40px 20px 0; width: 325px; height: auto;"/>
+<img src="Profile.JPG" alt="Profile Picture" style="float: left; margin: 43px 40px 20px 0; width: 325px; height: auto;"/>
 
 Welcome to my website!
 
