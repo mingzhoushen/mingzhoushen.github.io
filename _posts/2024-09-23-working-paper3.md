@@ -1,5 +1,5 @@
 ---
-title:  "Evaluating the effect of California statewide lawn watering ban on water conservation using remotely sensed data"
+title:  "Water conservation through regulation: Evidence from California's lawn watering ban using remotely sensed data"
 mathjax: true
 layout: post
 categories: 
