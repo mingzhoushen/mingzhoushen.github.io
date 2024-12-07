@@ -11,7 +11,7 @@ title: ""
 
 <h2 style="font-size:28px;">Publications</h2>   
 
-[1] [Impacts of water-related building moratoria on California's housing crisis](https://le.uwpress.org/content/early/2024/09/16/le.101.1.112023-0122R)  
+[1] [Impacts of water-related building moratoria on California's housing crisis](https://drive.google.com/file/d/1Ki2btOqfnuUlSzQeTw0pf3pT5Hh1_790/view?usp=sharing)  
 (with Karen Fisher-Vanden and Douglas H. Wrenn). *Land Economics*. Forthcoming. 
 
 [2] [Carbon neutral tea production in China – Three pilot case studies](https://openknowledge.fao.org/items/093109de-3e5f-4a81-99fe-bb5fdbd17536)  
