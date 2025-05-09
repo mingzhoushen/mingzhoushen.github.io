@@ -1,5 +1,5 @@
 ---
-title:  "Responsding to Water Scarcity in the Western United States: Household location choice and housing market feedbacks (Job market paper)"
+title:  "Responsding to water scarcity in the Western United States: Household location choice and housing market feedbacks (Job market paper)"
 mathjax: true
 layout: post
 categories: 
