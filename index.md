@@ -11,8 +11,6 @@ I am an applied microeconomist and Ph.D. candidate at [Pennsylvania State Univer
 
 Prior to beginning my Ph.D. in 2020, I worked with the [Food and Agriculture Organization of the United Nations](https://www.fao.org/home/en) in Rome, Italy. I hold both a Master's and a Bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), China.  
 
-I will be joining the School of Public Affairs at Zhejiang University as an Assistant Professor in Fall 2025.
-
 
 
 <div style="text-align: right;">
