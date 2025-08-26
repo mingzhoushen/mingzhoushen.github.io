@@ -7,9 +7,9 @@ title: ""
 
 Welcome to my website!
 
-I am an applied microeconomist and Ph.D. candidate at [Pennsylvania State University](https://www.psu.edu/). My research focuses on natural disaster risk management and climate change adaptation. I have studied the impacts of drought-induced building moratoria on California's housing crisis, and my job market paper assesses how water scarcity influences household location choice. My goal is to generate insights that advance sustainability and social equity. I am fortunate to be advised by Professors [Karen Fisher-Vanden](https://aese.psu.edu/directory/kaf26), [Douglas H. Wrenn](https://aese.psu.edu/directory/dhw121), and [Qin Fan](https://craig.fresnostate.edu/about/directory/econ/fan-qin.html).
+I am an Economist with a Ph.D. in Energy, Environmental, and Food Economics from [Pennsylvania State University](https://www.psu.edu/). My research focuses on natural disaster risk management and climate change adaptation. I have examined how drought-induced building moratoria shape California’s housing market, and my job market paper investigates how water scarcity affects household location choices and welfare. Broadly, my work aims to generate insights that advance sustainability and social equity.
 
-Prior to beginning my Ph.D. in 2020, I worked with the [Food and Agriculture Organization of the United Nations](https://www.fao.org/home/en) in Rome, Italy. I hold both a Master's and a Bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), China.  
+I obtained both my Master's and Bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), China.  
 
 I will be joining the School of Public Affairs at Zhejiang University as an Assistant Professor.
 
