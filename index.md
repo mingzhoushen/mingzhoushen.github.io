@@ -7,7 +7,7 @@ title: ""
 
 Welcome to my website!
 
-I am an Economist with a Ph.D. in Energy, Environmental, and Food Economics from [Pennsylvania State University](https://www.psu.edu/). My research focuses on natural disaster risk management and climate change adaptation. I have examined how drought-induced building moratoria shape California’s housing market, and my job market paper investigates how water scarcity affects household location choices and welfare. Broadly, my work aims to generate insights that advance sustainability and social equity.
+I am an economist with a Ph.D. in Applied Economics from [Pennsylvania State University](https://www.psu.edu/). My research focuses on natural disaster risk management and climate change adaptation. I have examined how drought-induced building moratoria shape California’s housing market, and my job market paper investigates how water scarcity affects household location choices and welfare. Broadly, my work aims to generate insights that advance sustainability and social equity.
 
 I obtained both my Master's and Bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), China.  
 
