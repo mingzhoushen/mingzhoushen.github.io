@@ -13,7 +13,6 @@ I am fortunate to be advised by Professors Karen Fisher-Vanden, Douglas H. Wrenn
 
 I received both my Master's and Bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), China.  
 
-I will be joining the School of Public Affairs at Zhejiang University as an Assistant Professor.
 
 
 
