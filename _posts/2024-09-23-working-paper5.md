@@ -1,5 +1,5 @@
 ---
-title:  "Responsding to water scarcity in the Western United States: Household location choice and housing market feedbacks (Job market paper)"
+title:  "Scarcity by Design: How Water Constraints Impact Household Sorting and Welfare in the West (Job market paper)"
 mathjax: true
 layout: post
 categories: 
