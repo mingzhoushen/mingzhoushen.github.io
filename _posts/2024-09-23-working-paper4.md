@@ -1,5 +1,5 @@
 ---
-title:  "The impact of water scarcity on housing supply: New evidence from an integrated hydrologic-legal metric"
+title:  "The Housing Market Consequences of Water Scarcity in the Colorado River Basin: Insights from an Integrated Hydrologic-Legal Metric"
 mathjax: true
 layout: post
 categories: 
@@ -8,6 +8,6 @@ categories:
 ---
 
 ### Abstract
-Water scarcity is an increasingly important constraint on housing development in the Western U.S. This study leverages a novel hydrologic-legal measure of unmet water demand, combined with data on new home construction from 1991 to 2020, to examine the impact of water shortages on housing supply. By using fixed effects panel models, we find that moderate levels of water scarcity have limited effects on housing supply, but more severe and persistent shortages lead to large and statistically significant declines in new home construction. The negative effect is especially pronounced in arid states and areas with strict water supply mandates. These findings highlight an important channel through which environmental constraints shape local housing markets.
+Water scarcity has become a defining constraint on growth in the western United States, with the Colorado River Basin at the center of this challenge. Supplying water to over 40 million people, the Basin faces persistent shortages driven by over-allocation and environmental change-induced declines in flow. This paper provides the first system-wide evidence on how scarcity shapes housing markets, introducing a novel measure of unmet water demand that integrates hydrologic conditions with water rights. Using panel data on housing construction and transactions from 2010–2020, we estimate binned fixed effects models to capture nonlinear responses. Results show that new homebuilding falls once shortages exceed 30 days, with prolonged scarcity nearly halting construction in the Lower Basin, while the Upper Basin displays more volatile responses. Housing prices decline by 3–5 percent under sustained scarcity, indicating that buyer aversion outweighs supply constraints. 
   
 
